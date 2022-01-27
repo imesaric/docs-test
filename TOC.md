@@ -1,4 +1,4 @@
 # Table of Contents
 
-[Articles]
+## Articles
 * [Example](articles/example-article.md)
