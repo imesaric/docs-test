@@ -1,0 +1,33 @@
+This article explains how to access information on content shared with external users by using SysKit Point. 
+
+# SysKit Point Dashboard & External Collaboration
+
+If you want to locate all of the content you’ve shared with one or more external users, the first step is opening the SysKit web application and selecting the **Dashboard** option.  
+
+Once you’re on the **Dashboard Overview** screen, you’ll see a section titled External Collaboration. Within this section there are several options: 
+- External Users
+- Sites With External Sharing
+- Links Shared With Anyone
+- Sites Shared With Anyone
+
+For the purpose of this article, we’ll focus on **Sites With External Sharing**.
+
+
+## Sites With External Sharing
+
+Above the title **Sites With External Sharing**, you’ll find the number of sites that have external sharing enabled. However, in order to view more details about these sites, you’ll need to select the option itself. 
+
+Clicking on **Sites With External Sharing** will open the Sites overview section for you. 
+
+Here you’ll find all of your externally shared sites listed, along with other details such as who the **primary admin** is for a specific site, when the access was **last modified**, who can **access the site**, and how many **external users** have access. 
+
+Selecting a Site from the list will offer additional options on the right side of the screen. There you can choose between the following actions:
+
+- Add Admins
+- Remove Admins
+- Change Admins
+- Manage Policies
+- Change Sharing Settings
+- Configure Alerts
+
+Once you’re finished with any changes you might want to make, you can continue exploring your **Sites Dashboard** by changing the filter above from the currently selected **Externally Shared Sites** to whatever option interests you next. 
