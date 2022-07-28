@@ -35,3 +35,6 @@ By now, your SysKit Point is up and running. You can sign in to the SysKit Point
 * [**Request access to Protected APIs in Microsoft Teams**](https://www.syskit.com/products/point/documentation/?doc_page=configuration/microsoft-teams-activity.md) - Point needs **additional approval from Microsoft** to be able to **detect inactive Teams**
 * [**Manage who can access Point**](https://www.syskit.com/products/point/documentation/?doc_page=configuration/enable-role-based-access.md) - by default, only **Global Administrators** and **SharePoint admins** have the rights to log in to the Point web application
 * [**Setup data retention for Audit logs**](https://www.syskit.com/products/point/documentation/?doc_page=configuration/customize-audit-logs-collection.md) - depending on your company policy, set the data retention policy for stored Microsoft 365 audit logs
+
+
+TODO - add Next steps
